@@ -1,5 +1,3 @@
-# git-start
-GitHub FLow parctice
+# 2024-12-23
 
-
-## test
+newbie start github
